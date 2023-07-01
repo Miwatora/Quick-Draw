@@ -1,0 +1,42 @@
+body {
+    background-color: rgb(193, 224, 226);
+}
+
+#score {
+    font-size: 40px;
+    margin: 80px;
+    float: left;
+}
+
+#timer {
+    font-size: 40px;
+    float:right;
+    margin-right: 170px;
+    margin-top: 70px;
+}
+
+#sketch_name {
+    font-size: 20px;
+}
+
+#label {
+    font-size: 20px;
+}
+
+#confidence  {
+    font-size: 20px;
+}
+
+#show_sketch {
+    float: right;
+}
+
+#myModal {
+    background-color: white;
+}
+
+#title {
+    background-color: aliceblue;
+}
+
+
